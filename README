@@ -1,0 +1,7 @@
+![Containers Logo](https://github.com/containers/common/blob/main/logos/containers-full-horiz.png)
+
+# Containers Project Release Keys
+
+This repository contains the GPG public keys of maintainers authorized to release projects under the containers/ org.
+Pariticipating projects will list their approved keys in a subdirectory sharing the name of the repository.
+For example, approved keys for the containers/podman repository are in the podman subdirectory.
